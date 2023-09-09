@@ -15,7 +15,7 @@ I'm currently working on C/C++ language projects and embedded system projects us
 I'm looking forward to meet the people's expectation.\
 \
 \
-If you have any idea, or advise, just let me know.
+If you have any idea, or advise, just tell me about it privately.
 
 
 ## 🛠 Skills
