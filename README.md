@@ -11,8 +11,8 @@
 
 # More about me 👋
 I graduated from the Higher Technological Institute in Egypt.\
-I'm currently working on C/C++ language projects and embedded system projects using STM32.\
-I'm looking forward to meet the people's expectation.\
+I'm currently working on C/C++ language projects and embedded system projects using AVR & ARM Cortex M3.\
+I'm looking forward to meet the market needs.\
 \
 \
 If you have any idea, or advise, just tell me about it privately.
