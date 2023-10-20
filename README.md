@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - My name is Mahmoud Sayed.
 - I'm a Mechatronics Engineering graduate.
-- My goal is to be an Embedded Software Developer.
+- I'm an Embedded Firmware Engineer.
 
 
 # More about me 👋
